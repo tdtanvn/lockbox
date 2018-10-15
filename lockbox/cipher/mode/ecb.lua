@@ -1,4 +1,4 @@
-require("lockbox").insecure();
+--require("lockbox").insecure();
 
 local Array = require("lockbox.util.array");
 local Stream = require("lockbox.util.stream");
